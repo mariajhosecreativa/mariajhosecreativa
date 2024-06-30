@@ -1,0 +1,27 @@
+/* Estilos para computadoras de escritorio y portátiles */
+@media (min-width: 1024px) {
+    .about-me-image {
+        width: 300px;
+        height: auto;
+    }
+
+    .about-me-image-2 {
+        width: 400px;
+        height: auto;
+    }
+
+    .service-image {
+        width: 300px;
+        height: auto;
+    }
+
+    .service-image-2 {
+        width: 500px;
+        height: auto;
+    }
+
+    .product-image {
+        width: 1000px;
+        height: auto;
+    }
+}

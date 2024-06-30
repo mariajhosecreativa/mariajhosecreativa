@@ -1,0 +1,46 @@
+/* Estilos generales (aplicables a todos los dispositivos) */
+:root {
+    --morado-claro: #EEE3F4;
+    --morado-normal: #C19AF3;
+    --morado-oscuro: #9137F3;
+    --texto-claro: #fff;
+    --texto-oscuro: #000;
+}
+
+body {
+    font-family: "Anybody", sans-serif;
+    font-size: medium;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Caprasimo", serif;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.background-morado-claro {
+    background-color: var(--morado-claro);
+    color: var(--texto-oscuro);
+}
+
+.text-color-morado {
+    color: var(--morado-oscuro);
+    font-family: "Caprasimo", serif;
+}
+
+.text-size-long {
+    font-size: xx-large;
+}
+
+.btn-morado {
+    background-color: var(--morado-oscuro);
+    color: var(--texto-claro);
+    font-family: "Caprasimo", serif;
+}
+
+.btn-morado:hover {
+    background-color: var(--morado-normal);
+    color: var(--texto-oscuro);
+}

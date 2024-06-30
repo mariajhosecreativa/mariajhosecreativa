@@ -1,0 +1,26 @@
+/* Estilos para teléfonos móviles (pantallas pequeñas) */
+@media (max-width: 767px) {
+    .about-me-image {
+        width: 200px;
+        height: auto;
+    }
+
+    .display-image-none {
+        display: none !important;
+    }
+
+    .service-image {
+        width: 300px;
+        height: auto;
+    }
+
+    .service-image-2 {
+        width: 300px;
+        height: auto;
+    }
+
+    .product-image {
+        width: 300px !important;
+        height: auto;
+    }
+}
