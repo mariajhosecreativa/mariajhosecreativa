@@ -1,9 +1,9 @@
 # 💫 Sobre mí:
-👋 Hola, soy María Jhose Creativa<br>
-➡️ Programadora, marketer y creativa<br>
-❤️ Amo diseñar contenido en Canva<br>
-✨ Trabajo para que las marcas se vean bonitas y sean funcionales
-
+👋 Hola, soy María Jhosé Creativa.<br>
+➡️ Programadora, marketer y creativa.<br>
+❤️ Amo diseñar contenido en Canva.<br>
+✨ Trabajo para que las marcas se vean bonitas y sean funcionales.<br>
+😍 Disfruto del aprender y enseñar.<br>
 
 ## 🌐 Mis redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariajhosecreativa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mariajhosecreativa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mariajhosecreativa) 
